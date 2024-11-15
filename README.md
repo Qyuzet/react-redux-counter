@@ -37,7 +37,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/react-redux-counter.git
+   git clone https://github.com/Qyuzet/react-redux-counter.git
    cd react-redux-counter
    ```
 
