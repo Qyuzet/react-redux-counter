@@ -24,7 +24,7 @@ This project is a simple counter application built with **React** and **Redux**.
 
 ## Installation
 
-Follow these steps to run the project locally:
+Follow these steps to run the project locally (_note: make sure your boilerplate is prepared, this GitHub doesn't include the nodes package_":
 
 ### Prerequisites
 
